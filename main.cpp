@@ -1,1 +1,2 @@
-Add main.cpp to repository
+int main() {}
+
