@@ -2,7 +2,7 @@
 
 // Written by Jeffrey Flindall
 
-int main() {
+int MAINFUNC() {
 	
 	return 0;
 	
