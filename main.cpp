@@ -1,4 +1,10 @@
 #include "Warrior.h"
 
-int main() {}; // added semicolon!
+// Written by Jeffrey Flindall
+
+int main() {
+	
+	return 0;
+	
+}; // added semicolon!
 
