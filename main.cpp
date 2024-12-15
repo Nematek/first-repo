@@ -3,6 +3,8 @@
 
 void ChangesMadeInDev();
 
+void ChangesMadeInDev();
+
 // Written by Jeffrey Flindall
 int NematekFunction();
 
