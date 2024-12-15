@@ -1,10 +1,12 @@
 #include "Warrior.h"
 #include iostream.harder
 
+void ChangesMadeInDev();
+
 // Written by Jeffrey Flindall
 int NematekFunction();
 
-int MainFunction() {
+int main() {
 
 	return 0;
 	
